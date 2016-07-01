@@ -13,3 +13,6 @@ A Simple Laravel Store Based On Laravel 5.2, For More Detail:<http://laravelacad
 ``php artisan migrate``
 
 That's All
+
+
+**create the directory storage\framework\sessions"**
